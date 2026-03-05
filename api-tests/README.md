@@ -1,23 +1,36 @@
-# API Testing
+# API Testing Examples
 
-This folder contains examples of API testing using Postman.
+This section demonstrates basic API testing scenarios using Postman.
 
-## Example tests
+## Tested API
 
-### GET Users
+Public API used for testing:
 
-Endpoint:
-https://reqres.in/api/users
+https://reqres.in/
 
-Expected result:
-- Status code 200
-- JSON response containing user data
+---
 
-### POST Login
+## Example Test — Get Users
 
 Endpoint:
-https://reqres.in/api/login
+
+GET https://reqres.in/api/users
 
 Expected result:
-- Status code 200
-- Token returned in response
+
+• Status code 200  
+• Response body contains user data  
+• JSON format returned  
+
+---
+
+## Example Test — Login
+
+Endpoint:
+
+POST https://reqres.in/api/login
+
+Expected result:
+
+• Status code 200  
+• Token returned in response
