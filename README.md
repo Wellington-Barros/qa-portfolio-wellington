@@ -1,26 +1,45 @@
 # QA Portfolio — Wellington Barros
 
-This repository contains my Software QA portfolio with **manual test cases**, **bug reports**, and **API testing** examples.
+Welcome to my Software Quality Assurance portfolio.
 
-## What you will find here
-- ✅ Manual Test Cases (functional & regression)
-- 🐞 Bug Reports (structured and detailed)
-- 🔌 API Testing (Postman collections and examples)
+This repository contains practical examples of **manual testing**, **bug reporting**, and **API testing**.
 
-## Skills demonstrated
-- Functional Testing
-- Regression Testing
-- Bug Reporting & Tracking
-- Root Cause Analysis
-- Test Case Design
-- API Testing (Postman)
-- SQL basics (validation and data checks)
+## About Me
 
-## Repository structure
-- `test-cases/` → test cases documentation
-- `bug-reports/` → bug report examples
-- `api-tests/` → API testing examples (Postman)
+QA enthusiast with experience in incident analysis, troubleshooting, and system validation.  
+Background in IT support working with enterprise systems and identifying software issues.
+
+## Portfolio Contents
+
+### Test Cases
+Examples of manual test cases written using a structured QA format.
+
+Location:
+test-cases/login-tests.md
+
+### Bug Reports
+Examples of professional bug documentation including steps to reproduce, expected vs actual results, and severity.
+
+Location:
+bug-reports/
+
+### API Testing
+Examples of API validation using Postman.
+
+Location:
+api-tests/
+
+## Skills Demonstrated
+
+• Manual Testing  
+• Functional Testing  
+• Regression Testing  
+• Bug Reporting  
+• Root Cause Analysis  
+• API Testing (Postman)  
+• Test Case Design  
 
 ## Contact
-- Email: wellingtonbarros90@gmail.com
-- LinkedIn: (https://www.linkedin.com/in/wellington-barros-2b944110b/)
+
+Email: wellingtonbarros90@gmail.com  
+LinkedIn: (https://www.linkedin.com/in/wellington-barros-2b944110b)
